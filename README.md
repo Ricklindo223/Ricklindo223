@@ -4,6 +4,12 @@
   Estudante de Engenharia da Computação | Desenvolvimento de Software, Web e Automações com IA
 </h3>
 
+<p align="center">
+  <a href="https://www.linkedin.com/in/rick-iury-oliveira-andrade-551879395">
+    <img src="https://img.shields.io/badge/LinkedIn-Rick%20Iury-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+</p>
+
 ---
 
 ## 👨‍💻 Sobre mim
@@ -127,6 +133,10 @@ Tenho interesse em oportunidades nas áreas de:
 ## 🤝 Entre em contato comigo
 
 <p align="center">
+
+<a href="https://www.linkedin.com/in/rick-iury-oliveira-andrade-551879395">
+  <img src="https://img.shields.io/badge/LinkedIn-Rick%20Iury-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
 
 <a href="mailto:oliveiraiuryrick@gmail.com">
   <img src="https://img.shields.io/badge/Email-oliveiraiuryrick%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
