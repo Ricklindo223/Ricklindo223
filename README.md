@@ -4,12 +4,6 @@
   Estudante de Engenharia da Computação | Desenvolvimento de Software, Web e Automações com IA
 </h3>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/rick-oliveira-551879395">
-    <img src="https://img.shields.io/badge/LinkedIn-Rick%20Iury-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a>
-</p>
-
 ---
 
 ## 👨‍💻 Sobre mim
@@ -114,22 +108,6 @@ Durante o desenvolvimento, trabalhei com conceitos de:
 
 ---
 
-## 📚 GUIA CONCURSOS+
-
-Projeto acadêmico voltado à criação de uma plataforma para centralizar informações sobre concursos públicos no Amazonas.
-
-O projeto envolve:
-
-- Levantamento de requisitos
-- Estruturação de sistema web
-- Organização e apresentação de dados
-- Experiência do usuário
-- Desenvolvimento colaborativo
-
-🚧 **Projeto em desenvolvimento**
-
----
-
 ## 🎯 Interesses profissionais
 
 Tenho interesse em oportunidades nas áreas de:
@@ -146,14 +124,23 @@ Tenho interesse em oportunidades nas áreas de:
 
 ---
 
-## 🤝 Contato
+## 🤝 Entre em contato comigo
 
 <p align="center">
 
-<a href="https://www.linkedin.com/in/rick-oliveira-551879395">
-  <img src="https://img.shields.io/badge/LinkedIn-Fale%20comigo-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+<a href="mailto:oliveiraiuryrick@gmail.com">
+  <img src="https://img.shields.io/badge/Email-oliveiraiuryrick%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
 </a>
 
+<a href="https://wa.me/5592988096033">
+  <img src="https://img.shields.io/badge/WhatsApp-%2B55%2092%2098809--6033-25D366?style=for-the-badge&logo=whatsapp&logoColor=white">
+</a>
+
+</p>
+
+<p align="center">
+  📧 <strong>oliveiraiuryrick@gmail.com</strong><br>
+  📱 <strong>+55 (92) 98809-6033</strong>
 </p>
 
 ---
